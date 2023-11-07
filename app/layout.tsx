@@ -55,7 +55,7 @@ const calSans = LocalFont({
 	variable: "--font-calsans",
 });
 const ubuntu = LocalFont({
-	src: "../public/fonts/Ubuntu-medium.ttf",
+	src: "../public/fonts/Ubuntu-Medium.ttf",
 });
 const ubuntuReg = LocalFont({
 	src: "../public/fonts/Ubuntu-Regular.ttf",
